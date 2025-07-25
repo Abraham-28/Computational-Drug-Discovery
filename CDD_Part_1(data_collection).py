@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """CDD_Part_1(Data-Collection).ipynb
 
-
 # Refer my google colab link for notebook file https://colab.research.google.com/drive/1XiTszdGkNQnFtapPutCLCl76agHgDfx-#scrollTo=SVc2uvlG7ifW
 # **Data Retrieval From ChEMBL Database**
 
